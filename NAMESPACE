@@ -1,0 +1,11 @@
+exportPattern("^[^\\.]")
+import(R2jags,gplots,MASS,survival,splines)
+import("lattice")
+S3method(print,summary.hdbma)
+S3method(summary,hdbma)
+importFrom("grDevices", "rainbow")
+importFrom("graphics", "par")
+importFrom("methods", "is")
+importFrom("stats", "D", "binomial", "complete.cases", "glm", "lm",
+                "pgamma", "predict", "quantile", "sd")
+

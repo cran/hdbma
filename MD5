@@ -1,0 +1,10 @@
+ed2991f534b526d29afb18e9af46a8ff *DESCRIPTION
+18dd20324d0dc405ad19d753096b303a *NAMESPACE
+1c3ec2ffd235c8525c085b99a2b3add5 *R/hdbma.r
+744edad9bec7ff7c506610e6d1d051b9 *build/partial.rdb
+4c3e4821588dec2056d1d8b450f2ad9a *data/weight_behavior.rda
+934bb86fd5a71abdb8a744e0dbc04aa4 *man/hdbma-package.Rd
+b502582ac1202052d01cf6084c1da4f0 *man/hdbma.Rd
+4230658ec660efe8f0e6b6fa87a44b36 *man/print.summary.hdbma.Rd
+43aad45c80cde9348cbcd4320df8a6bf *man/summary.hdbma.Rd
+5eb4f4ef1d88c379c25956f9895c0911 *man/weight_behavior.Rd
